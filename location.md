@@ -1,0 +1,2 @@
+# Location
+We currently meet weekly at 379 North University Ave, located in the heart of Provo, UT. Parking as accessible via 400 North, just to the west of the building. We meet in suite 301, so head on up the stairs when you get inside. Special thanks to [Coding Campus](http://codingcamp.us/) for allowing us to meet in their space!
