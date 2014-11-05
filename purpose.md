@@ -1,2 +1,2 @@
-#Purpose
+# Purpose
 This meetup is focused on spreading knowledge and best practices for the use of Node.js. Node is exploding with a massive and dedicated developer community, and is moving into enterprise stacks. There is an incredible talent pool out there who can bring their experience back to the community, and our goal is to get them into the group to speak. Topics of discussion are listed below. If you want to present one of these, please let one of us know.
