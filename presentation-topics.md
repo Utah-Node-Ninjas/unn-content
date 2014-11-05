@@ -4,7 +4,7 @@ Here's a a tentative list of topics we want to cover in the meetups. All of our 
 | Topic | Presenter(s) | Date of Presentation | Code Base |
 | ------ | ----------- | ------ | ----------- |
 | Beginner Concepts |
-| Core | Node.js | TBD | TBD | TBD |
+| Core Node.js | TBD | TBD | TBD |
 | NPM and modules | TBD | TBD | TBD |
 | I/O | TBD | TBD | TBD |
 | Interfacing with other languages | TBD | TBD | TBD |
